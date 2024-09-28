@@ -9,7 +9,6 @@ import CustomCursor from './components/CustomCursor'; // Sesuaikan dengan path y
 import Footer from './components/Footer';
 import About from './components/About';
 import LoadingScreen from '../src/components/LoadingScreen';
-import { BrowserRouter } from 'react-router-dom';
 
 const App = () => {
   const [loading, setLoading] = useState(true);
