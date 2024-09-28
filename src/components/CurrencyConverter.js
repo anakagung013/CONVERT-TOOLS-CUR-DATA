@@ -250,11 +250,6 @@ const CurrencyConverter = () => {
         HKD: 'HK', // Hong Kong Dollar
         INR: 'IN', // Indian Rupee
         KRW: 'KR', // South Korean Won
-        MXN: 'MX', // Mexican Peso
-        NZD: 'NZ', // New Zealand Dollar
-        SGD: 'SG', // Singapore Dollar
-        THB: 'TH', // Thai Baht
-        TRY: 'TR', // Turkish Lira
         ZAR: 'ZA', // South African Rand
         // ... (other currencies)
         AED: 'AE', // United Arab Emirates Dirham
@@ -386,7 +381,6 @@ const CurrencyConverter = () => {
         TZS: 'TZ', // Tanzanian Shilling
         UAH: 'UA', // Ukrainian Hryvnia
         UGX: 'UG', // Ugandan Shilling
-        USD: 'US', // United States Dollar
         USN: 'US', // United States Dollar (next day)
         USS: 'US', // United States Dollar (same day)
         UYI: 'UY', // Uruguayan Peso (indexed units)
@@ -414,7 +408,6 @@ const CurrencyConverter = () => {
         XUA: 'XUA', // East African shilling
         XXX: 'XX', // Unknown or invalid currency
         YER: 'YE', // Yemeni Rial
-        ZAR: 'ZA', // South African Rand
         ZMW: 'ZM', // Zambian Kwacha
         ZWL: 'ZW', // Zimbabwean Dollar
       };
